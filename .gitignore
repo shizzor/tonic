@@ -1,0 +1,5 @@
+*.GhostDoc.xml
+src/packages/*
+src/**/*.csproj.user
+src/**/bin/*
+src/**/obj/*
